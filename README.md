@@ -1,4 +1,4 @@
-## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 **I'm Carlos Guevara**
 
 :mailbox:  carlosvinicioguevaracabi@gmail.com
@@ -29,10 +29,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<br>
+## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CarvinicioX&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvinicioX&hide=TeX&layout=compact)
+## Top Languages
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=CarvinicioX)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvinicioX&hide=TeX&layout=compact)
