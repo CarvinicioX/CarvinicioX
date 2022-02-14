@@ -29,10 +29,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-## Stats
+## 🔭 Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=CarvinicioX&count_private=true&show_icons=true&include_all_commits=true)
 
-## Top Languages
+## 🎩 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvinicioX&hide=TeX&layout=compact)
