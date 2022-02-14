@@ -35,4 +35,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarvinicioX&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=.)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
